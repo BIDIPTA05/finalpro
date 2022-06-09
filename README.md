@@ -14,5 +14,7 @@ ABOUT
 ![image](https://user-images.githubusercontent.com/76623158/172834332-50b1edfb-962a-4612-ab4d-ae0f888e2f96.png)
 ![image](https://user-images.githubusercontent.com/76623158/172834748-20cfe99d-e5eb-4dac-accd-ee0da85d3331.png)
 ![image](https://user-images.githubusercontent.com/76623158/172834429-7d226819-9b6d-442b-a1b3-8501d40a93ff.png)
+CONTACT
 ![image](https://user-images.githubusercontent.com/76623158/172834467-59a811ee-3196-4672-9c72-140ba34cf5bf.png)
+CONTACT FOOTER
 ![image](https://user-images.githubusercontent.com/76623158/172834537-6fba35cf-affa-4873-94f8-1bd1fd2b2c06.png)
